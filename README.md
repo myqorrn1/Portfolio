@@ -17,6 +17,6 @@
     <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
 </p>
 
-## Portfolio 📝
+## My Portfolio 📝
 <a href="https://www.notion.so/Hello-World-Nice-to-see-you-f37d5ad71b1c48a7aa616e800cdd0497?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
 
