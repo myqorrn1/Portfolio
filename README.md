@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=footer&text=Hello%20World!%20My%20name%20is%20박정흠&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Hello%20World!%20My%20name%20is%20박정흠&fontSize=50)
 
 ## My tech stack 📚
 <p align="center">
