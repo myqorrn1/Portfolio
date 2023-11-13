@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Hello%20World!%20My%20name%20is%20박정흠&fontSize=50)
 
-## My tech stack 📚
+## Tech stack I've used 📚
 <p align="center">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
